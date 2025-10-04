@@ -1,0 +1,26 @@
+{
+  "short_name": "JS Grand Prix",
+  "name": "JavaScript Grand Prix",
+  "description": "An interactive JavaScript notebook that simulates a car racing game.",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/gemini_48dp.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/gemini_96dp.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/2x/gemini_192dp.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#1e1e1e",
+  "background_color": "#1e1e1e"
+}
